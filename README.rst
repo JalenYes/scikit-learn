@@ -163,6 +163,7 @@ Documentation
 Communication
 ~~~~~~~~~~~~~
 
+
 - Mailing list: https://mail.python.org/mailman/listinfo/scikit-learn
 - IRC channel: ``#scikit-learn`` at ``webchat.freenode.net``
 - Stack Overflow: https://stackoverflow.com/questions/tagged/scikit-learn
